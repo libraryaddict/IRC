@@ -1,0 +1,4 @@
+name: IrcApi
+main: me.libraryaddict.IRC.Main
+version: 4.0
+author: libraryaddict
